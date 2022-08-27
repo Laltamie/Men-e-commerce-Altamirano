@@ -1,10 +1,12 @@
 import './App.css';
-import NavBar from './assets/NavBar';
+import NavBar from './components/Navegador/NavBar';
+
 
 function App() {
   return (
     <div>
-      <NavBar />      
+      <NavBar/>
+      
     </div>
   );
 }
